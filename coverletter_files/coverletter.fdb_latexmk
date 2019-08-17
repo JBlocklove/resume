@@ -1,10 +1,10 @@
 # Fdb version 3
-["xdvipdfmx"] 1558215671 "blocklove_resume.xdv" "blocklove_resume.pdf" "blocklove_resume" 1558215671
-  "blocklove_resume.xdv" 1558215671 43364 5de6a8c6b41fe84d86568c16d3516621 "xelatex"
+["xdvipdfmx"] 1556061629 "coverletter.xdv" "coverletter.pdf" "coverletter" 1556061629
+  "coverletter.xdv" 1556061629 16200 8029018cf89bd80954b08578511a245a "xelatex"
   (generated)
-  "blocklove_resume.pdf"
-["xelatex"] 1558215669 "blocklove_resume.tex" "blocklove_resume.xdv" "blocklove_resume" 1558215671
-  "/dev/null" 1557758748 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "coverletter.pdf"
+["xelatex"] 1556061628 "coverletter.tex" "coverletter.xdv" "coverletter" 1556061629
+  "/dev/null" 1555958761 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1550406775 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1550406775 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1550406775 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -110,7 +110,6 @@
   "/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def" 1550406775 14098 b4e1ecab4699a0341b8e1349e4c53fb1 ""
   "/usr/share/texmf-dist/tex/latex/hyperref/puenc.def" 1550406775 122411 537c1e113664b098b6572dbc27a726af ""
   "/usr/share/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty" 1550406342 318 019510c713feab56160631df4423d2aa ""
-  "/usr/share/texmf-dist/tex/latex/import/import.sty" 1550406342 5149 44c7223e2a76dc66e41be8c1fb1477de ""
   "/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex" 1550406775 978969 ea00779a4e924fc996eabfce5826905e ""
   "/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty" 1550406775 9824 221c10456d7fdfd5013036a3b991642e ""
   "/usr/share/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def" 1550406775 17323 df68d718da6c76b7105df6ea62b04faa ""
@@ -151,19 +150,14 @@
   "/usr/share/texmf-dist/tex/latex/xifthen/xifthen.sty" 1550406342 5689 1bfa68243e89a54479e7d0580773c57e ""
   "/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty" 1550406775 4962 9c1069474ff71dbc47d5006555e352d3 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1550406775 33301 a3134070eacafb10b1f371612ce2650d ""
-  "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1557412148 4098335 80144bde72899c02acc6fe5e791d95b8 ""
+  "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1553785748 4098347 2a9a478f7fcfb346a58cac4e77900b45 ""
   "awesome-cv.cls" 1556042014 27161 c601478152080603140794d0e32b0659 ""
-  "blocklove_resume.aux" 1558215671 628 8e762e3fa6240f6f8fe2e9db6cd33e0e ""
-  "blocklove_resume.out" 1558215671 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "blocklove_resume.tex" 1558214485 3135 c1f9e5a0a61a88e189429aa71b0158ef ""
-  "education.tex" 1558214555 289 ef36a1d69bcbb3f0e8d6fbcdfb836b02 ""
-  "experience.tex" 1558215458 2230 b0a7efc7dc44d346a5bf75bdaf2952bc ""
+  "coverletter.aux" 1556061629 628 8e762e3fa6240f6f8fe2e9db6cd33e0e ""
+  "coverletter.out" 1556061629 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "coverletter.tex" 1556061627 5085 259fa6c50109424516b11306b116b402 ""
   "fontawesome.sty" 1550498403 98046 7347fb084abf1308033c4d26f24f7a42 ""
-  "leadership.tex" 1558214676 678 997285c04514cb2baddc385c5f76bb03 ""
-  "projects.tex" 1558215667 1298 901fcd3ac1f5d283a858ad3316550674 ""
-  "skills.tex" 1558215004 385 33af7362aa36bc26a1355fa2472c4a0e ""
   (generated)
-  "blocklove_resume.out"
-  "blocklove_resume.aux"
-  "blocklove_resume.xdv"
-  "blocklove_resume.log"
+  "coverletter.out"
+  "coverletter.log"
+  "coverletter.aux"
+  "coverletter.xdv"

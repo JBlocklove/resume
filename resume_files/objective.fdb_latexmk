@@ -1,0 +1,11 @@
+# Fdb version 3
+["pdflatex"] 1558215602 "objective.tex" "objective.pdf" "objective" 1558215602
+  "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1550406775 3332 103109f5612ad95229751940c61aada0 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1550406775 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1550406775 33301 a3134070eacafb10b1f371612ce2650d ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1557412159 7919195 ebaa02ef4e2774ed13d8f64f324c27b7 ""
+  "objective.aux" 1558214684 8 a94a2480d3289e625eea47cd1b285758 ""
+  "objective.tex" 1550942217 111 2680032b0d24fb3e6470a571f6f06027 ""
+  (generated)
+  "objective.pdf"
+  "objective.log"
