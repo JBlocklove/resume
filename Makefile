@@ -9,7 +9,7 @@ RESUME_SRCS = $(shell find $(RESUME_DIR) -name '*.tex')
 
 COVERLETTER_DIR = coverletter_files
 
-all: resume coverletter
+all: resume# coverletter
 
 
 resume: resume.pdf

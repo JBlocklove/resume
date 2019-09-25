@@ -1,0 +1,9 @@
+# Fdb version 3
+["pdflatex"] 1569275184 "research.tex" "research.pdf" "research" 1569275184
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1557554374 33301 a3134070eacafb10b1f371612ce2650d ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1566934184 7979416 355e71d8e63efdcab1048eb423a90947 ""
+  "research.aux" 1569255815 8 a94a2480d3289e625eea47cd1b285758 ""
+  "research.tex" 1569256229 407 5fcf8d0a14b9f6128734189b8334e587 ""
+  (generated)
+  "research.pdf"
+  "research.log"

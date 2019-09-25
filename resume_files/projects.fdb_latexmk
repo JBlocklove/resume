@@ -1,9 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1558215669 "projects.tex" "projects.pdf" "projects" 1558215669
-  "/usr/share/texmf-dist/web2c/texmf.cnf" 1550406775 33301 a3134070eacafb10b1f371612ce2650d ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1557412159 7919195 ebaa02ef4e2774ed13d8f64f324c27b7 ""
-  "projects.aux" 1558214686 8 a94a2480d3289e625eea47cd1b285758 ""
-  "projects.tex" 1558215667 1298 901fcd3ac1f5d283a858ad3316550674 ""
+["pdflatex"] 1569275181 "projects.tex" "projects.pdf" "projects" 1569275181
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1557554374 33301 a3134070eacafb10b1f371612ce2650d ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1566934184 7979416 355e71d8e63efdcab1048eb423a90947 ""
+  "projects.aux" 1569256073 8 a94a2480d3289e625eea47cd1b285758 ""
+  "projects.tex" 1569256230 1442 c70a1ef0f7ec59dfe027860361aff0a3 ""
   (generated)
-  "projects.log"
   "projects.pdf"
+  "projects.log"

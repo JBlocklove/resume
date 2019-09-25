@@ -20,7 +20,7 @@
 %%% Themes: Awesome-CV
 \documentclass[11pt, letterpaper]{awesome-cv}
 
-\geometry{left=1cm, top=0.25cm, right=1cm, bottom=0.75cm, footskip=0cm}
+\geometry{left=1cm, top=0.75cm, right=1cm, bottom=0.75cm, footskip=0cm}
 
 %%% Override a directory location for fonts(default: 'fonts/')
 \fontdir[fonts/]
@@ -33,7 +33,7 @@
 %                 awesome-nephritis, awesome-concrete, awesome-darknight
 %% Color for highlight
 % Define your custom color if you don't like awesome colors
-\colorlet{awesome}{awesome-red}
+\colorlet{awesome}{awesome-maroon}
 %\definecolor{awesome}{HTML}{CA63A8}
 %% Colors for text
 %\definecolor{darktext}{HTML}{414141}
@@ -48,7 +48,7 @@
 \setbool{acvSectionColorHighlight}{false}
 \renewcommand{\acvHeaderAfterSocialSkip}{0mm}
 \renewcommand{\acvSectionTopSkip}{-2mm}
-\renewcommand{\acvSectionContentTopSkip}{.5mm}
+\renewcommand{\acvSectionContentTopSkip}{0mm}
 
 % If you would like to change the social information separator from a pipe (|) to something else
 \renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
@@ -65,20 +65,12 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Essentials
 \name{}{Jason Blocklove}
-\position{Computer Engineering BS/MS Student}
+\position{Computer Engineering MS/BS Candidate}
 \address{136 Claremont Dr., Lansdale, PA  19446}
 \mobile{(267) 474-9602}
 %%% Social
 \email{jason.blocklove@gmail.com}
 %\linkedin{Jason Blocklove}
-%%% Optionals
-
-%\homepage{www.posquit0.com}
-%\github{posquit0}
-%\linkedin{posquit0}
-
-%\quote{``Be the change that you want to see in the world."}
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     Content
@@ -101,11 +93,11 @@
 %  {}
 %
 %%% Import contents
-%\import{\sectiondir}{objective.tex}
+\import{\sectiondir}{objective.tex}
 \import{\sectiondir}{education.tex}
 \import{\sectiondir}{experience.tex}
+%\import{\sectiondir}{research.tex}
 \import{\sectiondir}{projects.tex}
 \import{\sectiondir}{skills.tex}
 \import{\sectiondir}{leadership.tex}
-
 \end{document}

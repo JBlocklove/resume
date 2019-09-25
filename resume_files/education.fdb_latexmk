@@ -1,9 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1558215013 "education.tex" "education.pdf" "education" 1558215013
-  "/usr/share/texmf-dist/web2c/texmf.cnf" 1550406775 33301 a3134070eacafb10b1f371612ce2650d ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1557412159 7919195 ebaa02ef4e2774ed13d8f64f324c27b7 ""
-  "education.aux" 1558214541 8 a94a2480d3289e625eea47cd1b285758 ""
-  "education.tex" 1558214555 289 ef36a1d69bcbb3f0e8d6fbcdfb836b02 ""
+["pdflatex"] 1569290634 "education.tex" "education.pdf" "education" 1569290634
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1557554374 33301 a3134070eacafb10b1f371612ce2650d ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1566934184 7979416 355e71d8e63efdcab1048eb423a90947 ""
+  "education.aux" 1569255845 8 a94a2480d3289e625eea47cd1b285758 ""
+  "education.tex" 1569290632 657 7b41e07345050bc6eac738698cc1b660 ""
   (generated)
-  "education.log"
   "education.pdf"
+  "education.log"
