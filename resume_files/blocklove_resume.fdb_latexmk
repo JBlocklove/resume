@@ -1,10 +1,10 @@
 # Fdb version 3
-["xdvipdfmx"] 1569278087 "blocklove_resume.xdv" "blocklove_resume.pdf" "blocklove_resume" 1569278087
-  "blocklove_resume.xdv" 1569278086 50976 58d7e4662829ac55311d5ce49a8ad89e "xelatex"
+["xdvipdfmx"] 1572094106 "blocklove_resume.xdv" "blocklove_resume.pdf" "blocklove_resume" 1572094106
+  "blocklove_resume.xdv" 1572094106 54964 93d987d0681bc6877f9f86624a17855f "xelatex"
   (generated)
   "blocklove_resume.pdf"
-["xelatex"] 1569278085 "blocklove_resume.tex" "blocklove_resume.xdv" "blocklove_resume" 1569278087
-  "/dev/null" 1569273017 0 d41d8cd98f00b204e9800998ecf8427e ""
+["xelatex"] 1572094104 "blocklove_resume.tex" "blocklove_resume.xdv" "blocklove_resume" 1572094106
+  "/dev/null" 1571867066 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1557554374 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1557554374 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1557554374 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -154,19 +154,18 @@
   "/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty" 1557554374 4962 9c1069474ff71dbc47d5006555e352d3 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1557554374 33301 a3134070eacafb10b1f371612ce2650d ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1566934178 4111441 63646bec03b1762c00c45030b8b4f1b8 ""
-  "awesome-cv.cls" 1569278060 28083 78d7c882301a11b1969cc553143e212a ""
-  "blocklove_resume.aux" 1569278086 628 8e762e3fa6240f6f8fe2e9db6cd33e0e "xelatex"
-  "blocklove_resume.out" 1569278086 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "blocklove_resume.tex" 1569275320 3026 579720041fa28661c87ea92f746ed165 ""
-  "education.tex" 1569278083 671 b5a577055c0603053fa7eebed8ef4e1b ""
-  "experience.tex" 1569202045 2386 d15441f0dc064cc0d6e93b9abbdd5b23 ""
+  "awesome-cv.cls" 1569325875 28083 b74f68532e5e5cac10e2ef3e83662b09 ""
+  "blocklove_resume.aux" 1572094106 628 8e762e3fa6240f6f8fe2e9db6cd33e0e "xelatex"
+  "blocklove_resume.out" 1572094106 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "blocklove_resume.tex" 1572094056 3027 b10d2bf5f71005a0574cffff2681d8db ""
+  "education.tex" 1569290895 668 65a574142004d4c0d526c29d75a86c04 ""
+  "experience.tex" 1572094081 2395 2fb902ddd66c7d72c13515eec101baaf ""
   "fontawesome.sty" 1550498403 98046 7347fb084abf1308033c4d26f24f7a42 ""
   "leadership.tex" 1569202290 717 3f2c2e81b65bf060dd83018e05c7f659 ""
-  "objective.tex" 1569276384 206 74c9a9cc4aea8bcff7a1c35cddf61171 ""
-  "projects.tex" 1569256230 1442 c70a1ef0f7ec59dfe027860361aff0a3 ""
-  "skills.tex" 1569204335 436 3357c6ddcd99239ab60bf0779d98d1c6 ""
+  "projects.tex" 1572094103 2483 7dc2eaf36d473677e387218a2589eb61 ""
+  "skills.tex" 1572093402 445 99161243010712e4224f57700e0f3aa9 ""
   (generated)
   "blocklove_resume.aux"
-  "blocklove_resume.out"
   "blocklove_resume.log"
+  "blocklove_resume.out"
   "blocklove_resume.xdv"

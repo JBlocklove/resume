@@ -604,7 +604,7 @@
   \setlength{\extrarowheight}{0pt}
   \begin{tabular*}{\textwidth}{l!{\color{awesome}|} l@{\extracolsep{\fill}}r}
 	  \hspace{\acvIndentValue}\entrytitlestyle{#2} \,&\, \entrypositionstyle{#1} & \entrylocationstyle{#3} \\
-	  \multicolumn{2}{L{\textwidth-4cm}}{\descriptionstyle{#5}} & \entrydatestyle{#4}
+	  \multicolumn{2}{L{\textwidth-3.5cm}}{\descriptionstyle{#5}} & \entrydatestyle{#4}
   \end{tabular*}%
 }
 

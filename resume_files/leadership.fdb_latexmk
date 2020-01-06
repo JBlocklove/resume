@@ -1,9 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1569275183 "leadership.tex" "leadership.pdf" "leadership" 1569275183
+["pdflatex"] 1572216383 "leadership.tex" "leadership.pdf" "leadership" 1572216383
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1557554374 33301 a3134070eacafb10b1f371612ce2650d ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1566934184 7979416 355e71d8e63efdcab1048eb423a90947 ""
-  "leadership.aux" 1569275183 8 a94a2480d3289e625eea47cd1b285758 ""
-  "leadership.tex" 1569202290 717 3f2c2e81b65bf060dd83018e05c7f659 ""
+  "leadership.aux" 1572093407 8 a94a2480d3289e625eea47cd1b285758 ""
+  "leadership.tex" 1572214225 712 6b153c8f0501a845ca042a698c82c9d3 ""
   (generated)
   "leadership.pdf"
   "leadership.log"
