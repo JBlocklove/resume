@@ -4,10 +4,12 @@
 .PHONY: all
 
 CC = xelatex
-RESUME_DIR = resume_files
-RESUME_SRCS = $(shell find $(RESUME_DIR) -name '*.tex')
+RESUME_DIR = resume
+RESUME_SRCS = $(shell find $(RESUME_DIR)/sections -name '*.tex')
+CV_DIR = cv
+CV_SRCS = $(shell find $(CV_DIR)/sections -name '*.tex')
 
-COVERLETTER_DIR = coverletter_files
+COVERLETTER_DIR = coverletter
 
 all: resume# coverletter
 
@@ -17,8 +19,10 @@ resume: resume.pdf
 resume.pdf: $(RESUME_DIR)/blocklove_resume.tex $(RESUME_SRCS)
 	$(CC) -output-directory=$(RESUME_DIR) $<
 
-#cv.pdf: $(EXAMPLES_DIR)/cv.tex $(CV_SRCS)
-#	$(CC) -output-directory=$(EXAMPLES_DIR) $<
+cv: cv.pdf
+
+cv.pdf: $(CV_DIR)/blocklove_cv.tex $(CV_SRCS)
+	$(CC) -output-directory=$(CV_DIR) $<
 
 coverletter: coverletter.pdf
 
@@ -43,4 +47,3 @@ clean:
 clobber: clean
 	rm -rf $(RESUME_DIR)/*.pdf
 	rm -rf $(COVERLETTER_DIR)/*.pdf
-
