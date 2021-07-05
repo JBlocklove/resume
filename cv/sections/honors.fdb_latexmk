@@ -1,0 +1,9 @@
+# Fdb version 3
+["pdflatex"] 1624190460 "honors.tex" "honors.pdf" "honors" 1624190460
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1617738065 39911 2da6c67557ec033436fe5418a70a8a61 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1622451023 2812679 3af6dd556c922bd4939d15009c46e5cc ""
+  "honors.aux" 1623613285 8 a94a2480d3289e625eea47cd1b285758 ""
+  "honors.tex" 1624190458 324 dd0010a3187b6c9a32ce6f89bd844e74 ""
+  (generated)
+  "honors.pdf"
+  "honors.log"

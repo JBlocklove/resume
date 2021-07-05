@@ -20,7 +20,7 @@
 %%% Themes: Awesome-CV
 \documentclass[11pt, letterpaper]{awesome-cv}
 
-\geometry{left=1cm, top=0.75cm, right=1cm, bottom=0.75cm, footskip=0cm}
+\geometry{left=2cm, top=1.5cm, right=2cm, bottom=2cm, footskip=0cm}
 
 %%% Override a directory location for fonts(default: 'fonts/')
 \fontdir[fonts/]
@@ -33,7 +33,7 @@
 %                 awesome-nephritis, awesome-concrete, awesome-darknight
 %% Color for highlight
 % Define your custom color if you don't like awesome colors
-\colorlet{awesome}{awesome-maroon}
+\colorlet{awesome}{black}
 %\definecolor{awesome}{HTML}{CA63A8}
 %% Colors for text
 %\definecolor{darktext}{HTML}{414141}
@@ -45,10 +45,10 @@
 %\headersocialsep[\quad\textbar\quad]
 
 % Set false if you don't want to highlight section with awesome color
-\setbool{acvSectionColorHighlight}{false}
+\setbool{acvSectionColorHighlight}{true}
 \renewcommand{\acvHeaderAfterSocialSkip}{0mm}
-\renewcommand{\acvSectionTopSkip}{-2mm}
-\renewcommand{\acvSectionContentTopSkip}{0mm}
+\renewcommand{\acvSectionTopSkip}{0mm}
+\renewcommand{\acvSectionContentTopSkip}{0.0mm}
 
 % If you would like to change the social information separator from a pipe (|) to something else
 \renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
@@ -64,9 +64,9 @@
 %     Personal Data
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Essentials
-\name{}{Jason Blocklove}
-\position{Computer Engineering MS/BS Candidate}
-\address{136 Claremont Dr., Lansdale, PA  19446}
+\name{Jason}{Blocklove}
+\position{Computer/Electrical Engineer}
+\address{5934 Watch Chain Way, Columbia, MD 21044}
 \mobile{(267) 474-9602}
 %%% Social
 \email{jason.blocklove@gmail.com}
@@ -95,8 +95,13 @@
 %%% Import contents
 %\import{\sectiondir}{objective.tex}
 \import{\sectiondir}{education.tex}
+\import{\sectiondir}{honors.tex}
+\import{\sectiondir}{publications.tex}
+\import{\sectiondir}{research.tex}
+\import{\sectiondir}{qualifications.tex}
 \import{\sectiondir}{experience.tex}
 \import{\sectiondir}{projects.tex}
 \import{\sectiondir}{skills.tex}
+\newpage
 \import{\sectiondir}{leadership.tex}
 \end{document}
